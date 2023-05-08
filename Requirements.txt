@@ -1,0 +1,44 @@
+Appendix
+
+References :
+    - https://www.youtube.com/watch?v=U5LSlcD8xPg
+    - https://www.youtube.com/watch?v=7GdukzR6dxg
+    - https://www.youtube.com/watch?v=UgkBbPPJoaA
+
+Dataset :
+    - Hello, Okay, Im, Good, How are you, (Namaste)
+    - Good, Morning, Afternoon, Night, Day, (Evening)
+    - Thank you, Im, Sorry, Please, P, R, E, K, S, H, A
+    - Nice to meet, you, Excuse me, Good, Bye, V, I, S, H, N, U
+    - Mon, Tues, Wednes, Thurs, Fri, Satur, Sun, Day
+# All phrases in right hand and all alphabets in left hand except K and N
+
+Phrases :
+    - How are you
+    - Im Good
+    - Im Okay
+    - Hello, How are you
+    - Hello, Im Good
+    - Hello, Im okay
+    - Good Day
+    - Good Morning
+    - Good Afternoon
+    - Good Night
+    - Im PREKSHA
+    - Thank you, PREKSHA
+    - Im Sorry
+    - Im Sorry, PREKSHA
+    - Please PREKSHA
+    - Nice to meet you
+    - Nice to meet you, VISHNU
+    - Nice to meet you, Bye
+    - Excuse me, VISHNU
+    - Bye VISHNU
+    - Good bye
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+    - Sunday

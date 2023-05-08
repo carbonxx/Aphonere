@@ -1,0 +1,6 @@
+0 Good
+1 Day
+2 Morning
+3 Afternoon
+4 Evening
+5 Night

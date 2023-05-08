@@ -1,0 +1,6 @@
+0 Good
+1 Hello
+2 How are you
+3 Im
+4 Namaste
+5 Okay

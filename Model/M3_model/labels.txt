@@ -1,0 +1,11 @@
+0 Im
+1 Please
+2 Thank you
+3 Sorry
+4 P
+5 R
+6 E
+7 K
+8 S
+9 H
+10 A

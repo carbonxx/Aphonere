@@ -1,0 +1,11 @@
+0 Bye
+1 Excuse me
+2 Good
+3 Nice to meet
+4 You
+5 V
+6 I
+7 S
+8 H
+9 N
+10 U
